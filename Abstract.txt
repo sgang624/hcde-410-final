@@ -1,0 +1,4 @@
+This study aims to explore the relationship between the amount of crime faced in a given neighborhood and the overall level 
+of income of its residents (measured by that neighborhood's Housing Price Index). It is evident from the results that neighborhoods
+of lower HPI values tend to face greater levels of crime, primarily in the forms of assaults and robberies, than do neighborhoods of 
+medium and higher HPI values.
